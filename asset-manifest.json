@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-moviefinder-app/static/css/main.334bdeb1.css",
+    "main.js": "/react-moviefinder-app/static/js/main.2bd194e9.js",
+    "index.html": "/react-moviefinder-app/index.html",
+    "static/media/search.svg": "/react-moviefinder-app/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/react-moviefinder-app/static/css/main.334bdeb1.css.map",
+    "main.2bd194e9.js.map": "/react-moviefinder-app/static/js/main.2bd194e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.2bd194e9.js"
+  ]
+}
